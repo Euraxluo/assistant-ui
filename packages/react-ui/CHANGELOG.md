@@ -1,5 +1,17 @@
 # @euraxluo/react-ui
 
+## 2.0.0
+
+### Major Changes
+
+- test
+
+### Patch Changes
+
+- Updated dependencies
+  - @euraxluo/react@2.0.0
+  - @euraxluo/react-markdown@2.0.0
+
 ## Patch Changes
 
 - 7df4eef: fix: import in code headers

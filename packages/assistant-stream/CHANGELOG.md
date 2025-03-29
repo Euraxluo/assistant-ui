@@ -1,5 +1,11 @@
 # assistant-stream
 
+## 1.0.0
+
+### Major Changes
+
+- test
+
 ## 0.0.21
 
 ### Patch Changes

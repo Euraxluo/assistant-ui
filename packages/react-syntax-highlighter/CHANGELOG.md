@@ -1,5 +1,17 @@
 # @euraxluo/react-syntax-highlighter
 
+## 2.0.0
+
+### Major Changes
+
+- test
+
+### Patch Changes
+
+- Updated dependencies
+  - @euraxluo/react@2.0.0
+  - @euraxluo/react-markdown@2.0.0
+
 ## 0.7.10
 
 ### Patch Changes

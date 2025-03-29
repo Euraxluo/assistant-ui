@@ -1,6 +1,6 @@
 {
   "name": "@euraxluo/react-syntax-highlighter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "exports": {
     ".": {
@@ -27,8 +27,8 @@
     "build": "tsup src/index.ts --format cjs,esm --dts --sourcemap --clean"
   },
   "peerDependencies": {
-    "@euraxluo/react": "^1.0.0",
-    "@euraxluo/react-markdown": "^1.0.0",
+    "@euraxluo/react": "^2.0.0",
+    "@euraxluo/react-markdown": "^2.0.0",
     "@types/react": "*",
     "@types/react-syntax-highlighter": "*",
     "react": "^18 || ^19 || ^19.0.0-rc",
