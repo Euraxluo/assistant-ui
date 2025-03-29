@@ -47,7 +47,7 @@
     "tsup": "8.3.6"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
     "provenance": false
   },
   "homepage": "https://www.euraxluo.com/",
