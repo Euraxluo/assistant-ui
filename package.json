@@ -1,5 +1,6 @@
 {
   "name": "@euraxluo/monorepo",
+  "version": "1.0.0",
   "scripts": {
     "docs:dev": "pnpm --filter=@euraxluo/docs dev",
     "ci:version": "changeset version && pnpm install --no-frozen-lockfile",
@@ -29,5 +30,4 @@
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
-  "version": "0.0.1"
 }
