@@ -16,7 +16,7 @@ import {
   ThreadConfigProviderProps,
   useThreadConfig,
 } from "./thread-config";
-import { ThreadPrimitive, useThread } from "@assistant-ui/react";
+import { ThreadPrimitive, useThread } from "@euraxluo/react";
 
 const Thread: FC<ThreadConfig> = (config) => {
   const {

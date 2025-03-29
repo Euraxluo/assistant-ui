@@ -1,7 +1,7 @@
 import {
   getExternalStoreMessage,
   type ThreadMessage,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 
 /**
  * @deprecated Use `getExternalStoreMessage` instead. This method was specific to Vercel RSC

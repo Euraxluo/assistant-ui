@@ -10,7 +10,7 @@ import SyntaxHighlighter, {
   LightAsync,
   SyntaxHighlighterProps as SHP,
 } from "react-syntax-highlighter";
-import type { SyntaxHighlighterProps } from "@assistant-ui/react-markdown";
+import type { SyntaxHighlighterProps } from "@euraxluo/react-markdown";
 
 const makeMakeSyntaxHighlighter =
   (SyntaxHighlighter: ComponentType<SHP>) =>

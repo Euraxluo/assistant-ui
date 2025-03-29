@@ -49,34 +49,34 @@ export default async function installReactUILib(): Promise<void> {
   for (const file of files) {
     const fullPath = path.join(cwd, file);
     const content = fs.readFileSync(fullPath, "utf8");
-    if (content.includes("@assistant-ui/react-ui")) {
+    if (content.includes("@euraxluo/react-ui")) {
       found = true;
       break;
     }
   }
 
   if (found) {
-    if (isPackageInstalled("@assistant-ui/react-ui")) {
+    if (isPackageInstalled("@euraxluo/react-ui")) {
       console.log(
-        "@assistant-ui/react-ui is already installed. Skipping installation.",
+        "@euraxluo/react-ui is already installed. Skipping installation.",
       );
       return;
     }
 
     const answer = await askQuestion(
-      "React UI imports were added but @assistant-ui/react-ui is not installed. Do you want to install it? (Y/n) ",
+      "React UI imports were added but @euraxluo/react-ui is not installed. Do you want to install it? (Y/n) ",
     );
     if (answer === "" || answer.toLowerCase().startsWith("y")) {
       const pm = await detect();
       let cmd = "";
       if (pm === "yarn") {
-        cmd = "yarn add @assistant-ui/react-ui";
+        cmd = "yarn add @euraxluo/react-ui";
       } else if (pm === "pnpm") {
-        cmd = "pnpm add @assistant-ui/react-ui";
+        cmd = "pnpm add @euraxluo/react-ui";
       } else if (pm === "bun") {
-        cmd = "bun add @assistant-ui/react-ui";
+        cmd = "bun add @euraxluo/react-ui";
       } else {
-        cmd = "npm install @assistant-ui/react-ui";
+        cmd = "npm install @euraxluo/react-ui";
       }
       try {
         execSync(cmd, { stdio: "inherit" });

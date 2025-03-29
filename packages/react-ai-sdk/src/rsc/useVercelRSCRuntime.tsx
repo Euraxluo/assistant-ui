@@ -6,7 +6,7 @@ import {
   ThreadMessageLike,
   useExternalMessageConverter,
   useExternalStoreRuntime,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import { VercelRSCMessage } from "./VercelRSCMessage";
 import { useCallback, useMemo } from "react";
 import { symbolInternalRSCExtras } from "./utils/RSCThreadExtras";

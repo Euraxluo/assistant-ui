@@ -2,7 +2,7 @@ import { type Declaration, Plugin } from "postcss";
 import valueParser, { type ParsedValue } from "postcss-value-parser";
 
 const tailwindcssAui = (): Plugin => ({
-  postcssPlugin: "@assistant-ui/tailwindcss-transformer",
+  postcssPlugin: "@euraxluo/tailwindcss-transformer",
   AtRule: {
     keyframes: (atRule) => {
       if (!atRule.params.startsWith("aui-")) {

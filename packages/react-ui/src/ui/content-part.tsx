@@ -1,8 +1,8 @@
 "use client";
 
 import { FC } from "react";
-import { ContentPartPrimitive } from "@assistant-ui/react";
-import { INTERNAL } from "@assistant-ui/react";
+import { ContentPartPrimitive } from "@euraxluo/react";
+import { INTERNAL } from "@euraxluo/react";
 import classNames from "classnames";
 
 const { useSmoothStatus, withSmoothContextProvider } = INTERNAL;

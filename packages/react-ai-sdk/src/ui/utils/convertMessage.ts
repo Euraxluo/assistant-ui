@@ -1,8 +1,8 @@
 import { Message } from "@ai-sdk/ui-utils";
-import { useExternalMessageConverter } from "@assistant-ui/react";
-import { ToolCallContentPart } from "@assistant-ui/react";
-import { TextContentPart, ReasoningContentPart } from "@assistant-ui/react";
-import { CompleteAttachment } from "@assistant-ui/react";
+import { useExternalMessageConverter } from "@euraxluo/react";
+import { ToolCallContentPart } from "@euraxluo/react";
+import { TextContentPart, ReasoningContentPart } from "@euraxluo/react";
+import { CompleteAttachment } from "@euraxluo/react";
 
 export const convertMessage: useExternalMessageConverter.Callback<Message> = (
   message,

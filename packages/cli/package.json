@@ -1,5 +1,5 @@
 {
-  "name": "assistant-ui",
+  "name": "euraxluo",
   "version": "0.0.39",
   "license": "MIT",
   "source": "./src/index.ts",
@@ -14,8 +14,8 @@
     "jscodeshift": "^17.1.2"
   },
   "devDependencies": {
-    "@assistant-ui/tsbuildutils": "workspace:^",
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/tsbuildutils": "workspace:^",
+    "@euraxluo/tsconfig": "workspace:*",
     "@types/cli-progress": "^3.11.6",
     "@types/cross-spawn": "^6.0.6",
     "@types/debug": "^4.1.12",
@@ -36,13 +36,13 @@
     "access": "public",
     "provenance": true
   },
-  "homepage": "https://www.assistant-ui.com/",
+  "homepage": "https://www.euraxluo.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/assistant-ui/assistant-ui.git"
+    "url": "git+https://github.com/euraxluo/assistant-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/assistant-ui/assistant-ui/issues"
+    "url": "https://github.com/euraxluo/assistant-ui/issues"
   },
   "engines": {
     "node": ">=20.10.0"

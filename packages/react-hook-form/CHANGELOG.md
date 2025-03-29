@@ -1,4 +1,4 @@
-# @assistant-ui/react-hook-form
+# @euraxluo/react-hook-form
 
 ## 0.7.10
 
@@ -6,7 +6,7 @@
 
 - 72e66db: chore: update dependencies
 - Updated dependencies [72e66db]
-  - @assistant-ui/react@0.7.71
+  - @euraxluo/react@0.7.71
 
 ## 0.7.9
 
@@ -15,7 +15,7 @@
 - 22272e6: chore: update dependencies
 - Updated dependencies [0979334]
 - Updated dependencies [22272e6]
-  - @assistant-ui/react@0.7.39
+  - @euraxluo/react@0.7.39
 
 ## 0.7.8
 
@@ -25,7 +25,7 @@
 - Updated dependencies [345f3d5]
 - Updated dependencies [345f3d5]
 - Updated dependencies [2846559]
-  - @assistant-ui/react@0.7.35
+  - @euraxluo/react@0.7.35
 
 ## 0.7.7
 
@@ -34,7 +34,7 @@
 - 4c2bf58: chore: update dependencies
 - Updated dependencies [9a3dc93]
 - Updated dependencies [4c2bf58]
-  - @assistant-ui/react@0.7.34
+  - @euraxluo/react@0.7.34
 
 ## 0.7.6
 
@@ -42,7 +42,7 @@
 
 - 982a6a2: chore: update dependencies
 - Updated dependencies [982a6a2]
-  - @assistant-ui/react@0.7.30
+  - @euraxluo/react@0.7.30
 
 ## 0.7.5
 
@@ -50,7 +50,7 @@
 
 - ec3b8cc: chore: update dependencies
 - Updated dependencies [ec3b8cc]
-  - @assistant-ui/react@0.7.19
+  - @euraxluo/react@0.7.19
 
 ## 0.7.4
 
@@ -59,7 +59,7 @@
 - 4c54273: chore: update dependencies
 - Updated dependencies [4c54273]
 - Updated dependencies [4c54273]
-  - @assistant-ui/react@0.7.12
+  - @euraxluo/react@0.7.12
 
 ## 0.7.3
 
@@ -68,7 +68,7 @@
 - 2112ce8: chore: update dependencies
 - Updated dependencies [589d37b]
 - Updated dependencies [2112ce8]
-  - @assistant-ui/react@0.7.8
+  - @euraxluo/react@0.7.8
 
 ## 0.7.2
 
@@ -77,7 +77,7 @@
 - 933b8c0: chore: update deps
 - Updated dependencies [933b8c0]
 - Updated dependencies [09a2a38]
-  - @assistant-ui/react@0.7.6
+  - @euraxluo/react@0.7.6
 
 ## 0.7.1
 
@@ -85,7 +85,7 @@
 
 - c59d8b5: chore: update dependencies
 - Updated dependencies [c59d8b5]
-  - @assistant-ui/react@0.7.5
+  - @euraxluo/react@0.7.5
 
 ## 0.7.0
 
@@ -93,7 +93,7 @@
 
 - Updated dependencies [c6e886b]
 - Updated dependencies [2912fda]
-  - @assistant-ui/react@0.7.0
+  - @euraxluo/react@0.7.0
 
 ## 0.4.15
 
@@ -106,7 +106,7 @@
 - Updated dependencies [472c548]
 - Updated dependencies [14da684]
 - Updated dependencies [1ada091]
-  - @assistant-ui/react@0.5.99
+  - @euraxluo/react@0.5.99
 
 ## 0.4.14
 
@@ -116,7 +116,7 @@
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
-  - @assistant-ui/react@0.5.98
+  - @euraxluo/react@0.5.98
 
 ## 0.4.13
 
@@ -124,7 +124,7 @@
 
 - d2375cd: build: disable bundling in UI package releases
 - Updated dependencies [d2375cd]
-  - @assistant-ui/react@0.5.93
+  - @euraxluo/react@0.5.93
 
 ## 0.4.12
 
@@ -137,7 +137,7 @@
 - Updated dependencies [2090544]
 - Updated dependencies [fb32e61]
 - Updated dependencies [fb32e61]
-  - @assistant-ui/react@0.5.90
+  - @euraxluo/react@0.5.90
 
 ## 0.4.11
 
@@ -149,7 +149,7 @@
 - Updated dependencies [0ff22a7]
 - Updated dependencies [378ee99]
 - Updated dependencies [378ee99]
-  - @assistant-ui/react@0.5.73
+  - @euraxluo/react@0.5.73
 
 ## 0.4.10
 
@@ -159,7 +159,7 @@
 - Updated dependencies [88957ac]
 - Updated dependencies [1a99132]
 - Updated dependencies [3187013]
-  - @assistant-ui/react@0.5.61
+  - @euraxluo/react@0.5.61
 
 ## 0.4.9
 
@@ -169,7 +169,7 @@
 - Updated dependencies [926dce5]
 - Updated dependencies [155d6e7]
 - Updated dependencies [f80226f]
-  - @assistant-ui/react@0.5.60
+  - @euraxluo/react@0.5.60
 
 ## 0.4.8
 
@@ -178,7 +178,7 @@
 - c348553: chore: update dependencies
 - Updated dependencies [0f99aa6]
 - Updated dependencies [c348553]
-  - @assistant-ui/react@0.5.54
+  - @euraxluo/react@0.5.54
 
 ## 0.4.7
 
@@ -186,7 +186,7 @@
 
 - 04f6fc8: chore: update deps
 - Updated dependencies [04f6fc8]
-  - @assistant-ui/react@0.5.50
+  - @euraxluo/react@0.5.50
 
 ## 0.4.6
 
@@ -194,7 +194,7 @@
 
 - 554a423: chore: update deps
 - Updated dependencies [554a423]
-  - @assistant-ui/react@0.5.38
+  - @euraxluo/react@0.5.38
 
 ## 0.4.5
 
@@ -203,7 +203,7 @@
 - 556001f: chore: update deps
 - Updated dependencies [556001f]
 - Updated dependencies [556001f]
-  - @assistant-ui/react@0.5.29
+  - @euraxluo/react@0.5.29
 
 ## 0.4.4
 
@@ -211,16 +211,16 @@
 
 - 134d39e: fix: undo moving internal utilities to /react/internal
 - Updated dependencies [134d39e]
-  - @assistant-ui/react@0.5.22
+  - @euraxluo/react@0.5.22
 
 ## 0.4.3
 
 ### Patch Changes
 
-- 3cc67f2: refactor: move internal utilities to @assistant-ui/react/internal
+- 3cc67f2: refactor: move internal utilities to @euraxluo/react/internal
 - Updated dependencies [de04d92]
 - Updated dependencies [3cc67f2]
-  - @assistant-ui/react@0.5.20
+  - @euraxluo/react@0.5.20
 
 ## 0.4.2
 
@@ -228,7 +228,7 @@
 
 - a216fbf: chore: update deps
 - Updated dependencies [a216fbf]
-  - @assistant-ui/react@0.5.9
+  - @euraxluo/react@0.5.9
 
 ## 0.4.1
 
@@ -239,7 +239,7 @@
 - Updated dependencies [ee38c0c]
 - Updated dependencies [ee38c0c]
 - Updated dependencies [2baa898]
-  - @assistant-ui/react@0.5.1
+  - @euraxluo/react@0.5.1
 
 ## 0.3.2
 
@@ -248,7 +248,7 @@
 - e220617: feat(runtimes/edge): client side API key, model name, model parameters specification
 - Updated dependencies [bc77b4f]
 - Updated dependencies [e220617]
-  - @assistant-ui/react@0.4.6
+  - @euraxluo/react@0.4.6
 
 ## 0.3.1
 
@@ -256,7 +256,7 @@
 
 - 998081b: fix: reduce specificity of built-in CSS styles
 - Updated dependencies [998081b]
-  - @assistant-ui/react@0.4.4
+  - @euraxluo/react@0.4.4
 
 ## 0.3.0
 
@@ -267,7 +267,7 @@
 - Updated dependencies [e0e51cf]
 - Updated dependencies [e0e51cf]
 - Updated dependencies [679cd54]
-  - @assistant-ui/react@0.4.0
+  - @euraxluo/react@0.4.0
 
 ## 0.2.0
 
@@ -276,7 +276,7 @@
 - Updated dependencies [3dd7384]
 - Updated dependencies [23f474e]
 - Updated dependencies [5b68f4a]
-  - @assistant-ui/react@0.3.0
+  - @euraxluo/react@0.3.0
 
 ## 0.1.0
 
@@ -288,7 +288,7 @@
 
 - Updated dependencies [de20b1c]
 - Updated dependencies [2ab2cab]
-  - @assistant-ui/react@0.2.0
+  - @euraxluo/react@0.2.0
 
 ## 0.0.7
 
@@ -298,7 +298,7 @@
 - Updated dependencies [36f3a1f]
 - Updated dependencies [36f3a1f]
 - Updated dependencies [36f3a1f]
-  - @assistant-ui/react@0.1.7
+  - @euraxluo/react@0.1.7
 
 ## 0.0.6
 
@@ -308,7 +308,7 @@
 - 86d4f7f: feat: add UseAssistantFormProps type
 - Updated dependencies [a6769d5]
 - Updated dependencies [52236ab]
-  - @assistant-ui/react@0.1.6
+  - @euraxluo/react@0.1.6
 
 ## 0.0.4
 
@@ -316,7 +316,7 @@
 
 - 671dc86: feat: Tool Render functions
 - Updated dependencies [671dc86]
-  - @assistant-ui/react@0.1.5
+  - @euraxluo/react@0.1.5
 
 ## 0.0.3
 
@@ -326,4 +326,4 @@
 - 6e9528d: feat: add useAssistantTool API
 - Updated dependencies [6e9528d]
 - Updated dependencies [6e9528d]
-  - @assistant-ui/react@0.1.3
+  - @euraxluo/react@0.1.3

@@ -1,8 +1,7 @@
 {
-  "name": "@assistant-ui/monorepo",
-  "private": true,
+  "name": "@euraxluo/monorepo",
   "scripts": {
-    "docs:dev": "pnpm --filter=@assistant-ui/docs dev",
+    "docs:dev": "pnpm --filter=@euraxluo/docs dev",
     "ci:version": "changeset version && pnpm install --no-frozen-lockfile",
     "ci:publish": "turbo build --filter=\"./packages/*\" && changeset publish",
     "eslint": "eslint",

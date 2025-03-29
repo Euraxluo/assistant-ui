@@ -4,7 +4,7 @@ import { forwardRef, type FC } from "react";
 import { PlusIcon } from "lucide-react";
 
 import { withDefaults } from "./utils/withDefaults";
-import { ThreadListPrimitive } from "@assistant-ui/react";
+import { ThreadListPrimitive } from "@euraxluo/react";
 import ThreadListItem from "./thread-list-item";
 import { useThreadConfig } from "./thread-config";
 import { Button, ButtonProps } from "./base";

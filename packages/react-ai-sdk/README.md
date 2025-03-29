@@ -1,3 +1,3 @@
-# `@assistant-ui/react-ai-sdk`
+# `@euraxluo/react-ai-sdk`
 
-Vercel AI SDK integration for `@assistant-ui/react`.
+Vercel AI SDK integration for `@euraxluo/react`.

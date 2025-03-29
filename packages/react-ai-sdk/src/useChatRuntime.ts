@@ -1,4 +1,4 @@
-import { EdgeRuntimeOptions, useEdgeRuntime } from "@assistant-ui/react";
+import { EdgeRuntimeOptions, useEdgeRuntime } from "@euraxluo/react";
 
 type UseChatRuntimeOptions = Omit<EdgeRuntimeOptions, "unstable_AISDKInterop">;
 

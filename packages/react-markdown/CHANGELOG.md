@@ -1,4 +1,4 @@
-# @assistant-ui/react-markdown
+# @euraxluo/react-markdown
 
 ## 0.7.21
 
@@ -6,7 +6,7 @@
 
 - 7df4eef: fix: code block memoization
 - Updated dependencies [a36fd9e]
-  - @assistant-ui/react@0.7.88
+  - @euraxluo/react@0.7.88
 
 ## 0.7.20
 
@@ -14,7 +14,7 @@
 
 - 87fa024: fix: remove tailwind from peerdeps
 - Updated dependencies [87fa024]
-  - @assistant-ui/react@0.7.75
+  - @euraxluo/react@0.7.75
 
 ## 0.7.19
 
@@ -22,7 +22,7 @@
 
 - df35010: feat: use aui-md and data-status for dot animation
 - Updated dependencies [61f278b]
-  - @assistant-ui/react@0.7.74
+  - @euraxluo/react@0.7.74
 
 ## 0.7.18
 
@@ -30,7 +30,7 @@
 
 - 72e66db: chore: update dependencies
 - Updated dependencies [72e66db]
-  - @assistant-ui/react@0.7.71
+  - @euraxluo/react@0.7.71
 
 ## 0.7.17
 
@@ -42,10 +42,10 @@
 
 ### Patch Changes
 
-- 6703842: feat: codemod to migrate to @assistant-ui/react-ui
+- 6703842: feat: codemod to migrate to @euraxluo/react-ui
 - Updated dependencies [6703842]
 - Updated dependencies [79f7120]
-  - @assistant-ui/react@0.7.64
+  - @euraxluo/react@0.7.64
 
 ## 0.7.15
 
@@ -53,7 +53,7 @@
 
 - 7e5f127: fix: useSmooth unnecessary re-renders
 - Updated dependencies [7e5f127]
-  - @assistant-ui/react@0.7.62
+  - @euraxluo/react@0.7.62
 
 ## 0.7.14
 
@@ -74,7 +74,7 @@
 - 7345713: feat: add /styles/dot.css
 - Updated dependencies [bd78a70]
 - Updated dependencies [9ea8100]
-  - @assistant-ui/react@0.7.61
+  - @euraxluo/react@0.7.61
 
 ## 0.7.11
 
@@ -83,7 +83,7 @@
 - 22272e6: chore: update dependencies
 - Updated dependencies [0979334]
 - Updated dependencies [22272e6]
-  - @assistant-ui/react@0.7.39
+  - @euraxluo/react@0.7.39
 
 ## 0.7.10
 
@@ -93,7 +93,7 @@
 - Updated dependencies [345f3d5]
 - Updated dependencies [345f3d5]
 - Updated dependencies [2846559]
-  - @assistant-ui/react@0.7.35
+  - @euraxluo/react@0.7.35
 
 ## 0.7.9
 
@@ -102,7 +102,7 @@
 - 4c2bf58: chore: update dependencies
 - Updated dependencies [9a3dc93]
 - Updated dependencies [4c2bf58]
-  - @assistant-ui/react@0.7.34
+  - @euraxluo/react@0.7.34
 
 ## 0.7.8
 
@@ -110,7 +110,7 @@
 
 - 982a6a2: chore: update dependencies
 - Updated dependencies [982a6a2]
-  - @assistant-ui/react@0.7.30
+  - @euraxluo/react@0.7.30
 
 ## 0.7.7
 
@@ -118,7 +118,7 @@
 
 - ec3b8cc: chore: update dependencies
 - Updated dependencies [ec3b8cc]
-  - @assistant-ui/react@0.7.19
+  - @euraxluo/react@0.7.19
 
 ## 0.7.6
 
@@ -128,7 +128,7 @@
 - 3214b18: fix: MarkdownText smooth prop not working
 - Updated dependencies [1b16dce]
 - Updated dependencies [b0f309a]
-  - @assistant-ui/react@0.7.18
+  - @euraxluo/react@0.7.18
 
 ## 0.7.5
 
@@ -138,7 +138,7 @@
 - 4c54273: refactor: rename components.by_language to componentsByLanguage for react 19 types compat
 - Updated dependencies [4c54273]
 - Updated dependencies [4c54273]
-  - @assistant-ui/react@0.7.12
+  - @euraxluo/react@0.7.12
 
 ## 0.7.4
 
@@ -147,7 +147,7 @@
 - 2276e57: fix: cjs builds
 - Updated dependencies [2276e57]
 - Updated dependencies [e8752ac]
-  - @assistant-ui/react@0.7.9
+  - @euraxluo/react@0.7.9
 
 ## 0.7.3
 
@@ -156,7 +156,7 @@
 - 2112ce8: chore: update dependencies
 - Updated dependencies [589d37b]
 - Updated dependencies [2112ce8]
-  - @assistant-ui/react@0.7.8
+  - @euraxluo/react@0.7.8
 
 ## 0.7.2
 
@@ -165,7 +165,7 @@
 - 933b8c0: chore: update deps
 - Updated dependencies [933b8c0]
 - Updated dependencies [09a2a38]
-  - @assistant-ui/react@0.7.6
+  - @euraxluo/react@0.7.6
 
 ## 0.7.1
 
@@ -173,7 +173,7 @@
 
 - c59d8b5: chore: update dependencies
 - Updated dependencies [c59d8b5]
-  - @assistant-ui/react@0.7.5
+  - @euraxluo/react@0.7.5
 
 ## 0.7.0
 
@@ -181,7 +181,7 @@
 
 - Updated dependencies [c6e886b]
 - Updated dependencies [2912fda]
-  - @assistant-ui/react@0.7.0
+  - @euraxluo/react@0.7.0
 
 ## 0.2.27
 
@@ -194,19 +194,19 @@
 - Updated dependencies [472c548]
 - Updated dependencies [14da684]
 - Updated dependencies [1ada091]
-  - @assistant-ui/react@0.5.99
+  - @euraxluo/react@0.5.99
 
 ## 0.2.26
 
 ### Patch Changes
 
-- ff5b86c: build: refactor build script into @assistant-ui/tsbuildutils
+- ff5b86c: build: refactor build script into @euraxluo/tsbuildutils
 - ff5b86c: fix: better ESM compatibility
 - ff5b86c: chore: update deps
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
-  - @assistant-ui/react@0.5.98
+  - @euraxluo/react@0.5.98
 
 ## 0.2.25
 
@@ -214,7 +214,7 @@
 
 - fix: include generated css files in bundle
 - Updated dependencies
-  - @assistant-ui/react@0.5.95
+  - @euraxluo/react@0.5.95
 
 ## 0.2.24
 
@@ -228,7 +228,7 @@
 
 - d2375cd: build: disable bundling in UI package releases
 - Updated dependencies [d2375cd]
-  - @assistant-ui/react@0.5.93
+  - @euraxluo/react@0.5.93
 
 ## 0.2.22
 
@@ -242,7 +242,7 @@
 
 - 56f80fa: fix: tailwind plugin turbopack interop
 - Updated dependencies [56f80fa]
-  - @assistant-ui/react@0.5.91
+  - @euraxluo/react@0.5.91
 
 ## 0.2.20
 
@@ -255,7 +255,7 @@
 - Updated dependencies [2090544]
 - Updated dependencies [fb32e61]
 - Updated dependencies [fb32e61]
-  - @assistant-ui/react@0.5.90
+  - @euraxluo/react@0.5.90
 
 ## 0.2.19
 
@@ -267,7 +267,7 @@
 - Updated dependencies [0ff22a7]
 - Updated dependencies [378ee99]
 - Updated dependencies [378ee99]
-  - @assistant-ui/react@0.5.73
+  - @euraxluo/react@0.5.73
 
 ## 0.2.18
 
@@ -278,7 +278,7 @@
 - Updated dependencies [9fd85da]
 - Updated dependencies [d8bd40b]
 - Updated dependencies [42156cf]
-  - @assistant-ui/react@0.5.68
+  - @euraxluo/react@0.5.68
 
 ## 0.2.17
 
@@ -286,7 +286,7 @@
 
 - 27208fb: fix: only include "use client" banner in ESM builds
 - Updated dependencies [27208fb]
-  - @assistant-ui/react@0.5.65
+  - @euraxluo/react@0.5.65
 
 ## 0.2.16
 
@@ -294,7 +294,7 @@
 
 - ed24305: fix: add newline after "use client" for .js builds
 - Updated dependencies [ed24305]
-  - @assistant-ui/react@0.5.64
+  - @euraxluo/react@0.5.64
 
 ## 0.2.15
 
@@ -304,7 +304,7 @@
 - e1ae3d0: chore: update dependencies
 - Updated dependencies [c438773]
 - Updated dependencies [e1ae3d0]
-  - @assistant-ui/react@0.5.63
+  - @euraxluo/react@0.5.63
 
 ## 0.2.14
 
@@ -314,7 +314,7 @@
 - Updated dependencies [926dce5]
 - Updated dependencies [155d6e7]
 - Updated dependencies [f80226f]
-  - @assistant-ui/react@0.5.60
+  - @euraxluo/react@0.5.60
 
 ## 0.2.13
 
@@ -323,7 +323,7 @@
 - c348553: chore: update dependencies
 - Updated dependencies [0f99aa6]
 - Updated dependencies [c348553]
-  - @assistant-ui/react@0.5.54
+  - @euraxluo/react@0.5.54
 
 ## 0.2.12
 
@@ -331,7 +331,7 @@
 
 - 04f6fc8: chore: update deps
 - Updated dependencies [04f6fc8]
-  - @assistant-ui/react@0.5.50
+  - @euraxluo/react@0.5.50
 
 ## 0.2.11
 
@@ -339,7 +339,7 @@
 
 - 554a423: chore: update deps
 - Updated dependencies [554a423]
-  - @assistant-ui/react@0.5.38
+  - @euraxluo/react@0.5.38
 
 ## 0.2.10
 
@@ -348,7 +348,7 @@
 - 556001f: chore: update deps
 - Updated dependencies [556001f]
 - Updated dependencies [556001f]
-  - @assistant-ui/react@0.5.29
+  - @euraxluo/react@0.5.29
 
 ## 0.2.9
 
@@ -357,7 +357,7 @@
 - 9a55735: chore: update deps
 - Updated dependencies [915b5b7]
 - Updated dependencies [9a55735]
-  - @assistant-ui/react@0.5.28
+  - @euraxluo/react@0.5.28
 
 ## 0.2.8
 
@@ -366,7 +366,7 @@
 - dbf1042: chore: update deps
 - Updated dependencies [dbf1042]
 - Updated dependencies [dbf1042]
-  - @assistant-ui/react@0.5.27
+  - @euraxluo/react@0.5.27
 
 ## 0.2.7
 
@@ -374,17 +374,17 @@
 
 - 134d39e: fix: undo moving internal utilities to /react/internal
 - Updated dependencies [134d39e]
-  - @assistant-ui/react@0.5.22
+  - @euraxluo/react@0.5.22
 
 ## 0.2.6
 
 ### Patch Changes
 
 - de04d92: feat: loading status & smooth streaming interop
-- 3cc67f2: refactor: move internal utilities to @assistant-ui/react/internal
+- 3cc67f2: refactor: move internal utilities to @euraxluo/react/internal
 - Updated dependencies [de04d92]
 - Updated dependencies [3cc67f2]
-  - @assistant-ui/react@0.5.20
+  - @euraxluo/react@0.5.20
 
 ## 0.2.5
 
@@ -405,7 +405,7 @@
 
 - a216fbf: chore: update deps
 - Updated dependencies [a216fbf]
-  - @assistant-ui/react@0.5.9
+  - @euraxluo/react@0.5.9
 
 ## 0.2.2
 
@@ -415,7 +415,7 @@
 - Updated dependencies [2d7a8bd]
 - Updated dependencies [2d7a8bd]
 - Updated dependencies [2d7a8bd]
-  - @assistant-ui/react@0.5.2
+  - @euraxluo/react@0.5.2
 
 ## 0.2.1
 
@@ -426,7 +426,7 @@
 - Updated dependencies [ee38c0c]
 - Updated dependencies [ee38c0c]
 - Updated dependencies [2baa898]
-  - @assistant-ui/react@0.5.1
+  - @euraxluo/react@0.5.1
 
 ## 0.1.2
 
@@ -435,7 +435,7 @@
 - 0bc5d9f: feat(markdown): usage without tailwindcss
 - Updated dependencies [bc77b4f]
 - Updated dependencies [e220617]
-  - @assistant-ui/react@0.4.6
+  - @euraxluo/react@0.4.6
 
 ## 0.1.1
 
@@ -443,7 +443,7 @@
 
 - 998081b: fix: reduce specificity of built-in CSS styles
 - Updated dependencies [998081b]
-  - @assistant-ui/react@0.4.4
+  - @euraxluo/react@0.4.4
 
 ## 0.1.0
 
@@ -455,7 +455,7 @@
 - Updated dependencies [e0e51cf]
 - Updated dependencies [e0e51cf]
 - Updated dependencies [679cd54]
-  - @assistant-ui/react@0.4.0
+  - @euraxluo/react@0.4.0
 
 ## 0.0.5
 
@@ -463,7 +463,7 @@
 
 - ef25706: feat: Code Header and Syntax Highlighter support
 - Updated dependencies [ef25706]
-  - @assistant-ui/react@0.3.5
+  - @euraxluo/react@0.3.5
 
 ## 0.0.4
 
@@ -471,7 +471,7 @@
 
 - 1a8919b: feat: smooth text streaming
 - Updated dependencies [1a8919b]
-  - @assistant-ui/react@0.3.2
+  - @euraxluo/react@0.3.2
 
 ## 0.0.3
 
@@ -486,7 +486,7 @@
 - Updated dependencies [3dd7384]
 - Updated dependencies [23f474e]
 - Updated dependencies [5b68f4a]
-  - @assistant-ui/react@0.3.0
+  - @euraxluo/react@0.3.0
 
 ## 0.0.1
 
@@ -494,4 +494,4 @@
 
 - Updated dependencies [de20b1c]
 - Updated dependencies [2ab2cab]
-  - @assistant-ui/react@0.2.0
+  - @euraxluo/react@0.2.0

@@ -1,3 +1,3 @@
-# `@assistant-ui/react-langgraph`
+# `@euraxluo/react-langgraph`
 
-LangGraph integration for `@assistant-ui/react`.
+LangGraph integration for `@euraxluo/react`.

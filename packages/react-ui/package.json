@@ -1,6 +1,6 @@
 {
-  "name": "@assistant-ui/react-ui",
-  "description": "Pre-styled React components for @assistant-ui/react",
+  "name": "@euraxluo/react-ui",
+  "description": "Pre-styled React components for @euraxluo/react",
   "version": "0.1.8",
   "license": "MIT",
   "exports": {
@@ -43,8 +43,8 @@
     "zustand": "^5.0.3"
   },
   "peerDependencies": {
-    "@assistant-ui/react": "*",
-    "@assistant-ui/react-markdown": "*",
+    "@euraxluo/react": "*",
+    "@euraxluo/react-markdown": "*",
     "@types/react": "*",
     "@types/react-dom": "*",
     "react": "^18 || ^19 || ^19.0.0-rc",
@@ -59,11 +59,11 @@
     }
   },
   "devDependencies": {
-    "@assistant-ui/react": "workspace:^",
-    "@assistant-ui/react-markdown": "workspace:^",
-    "@assistant-ui/tailwindcss-transformer": "workspace:*",
-    "@assistant-ui/tsbuildutils": "workspace:^",
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/react": "workspace:^",
+    "@euraxluo/react-markdown": "workspace:^",
+    "@euraxluo/tailwindcss-transformer": "workspace:*",
+    "@euraxluo/tsbuildutils": "workspace:^",
+    "@euraxluo/tsconfig": "workspace:*",
     "@types/node": "^22.13.1",
     "autoprefixer": "^10.4.20",
     "eslint": "^9",
@@ -77,13 +77,13 @@
     "access": "public",
     "provenance": true
   },
-  "homepage": "https://www.assistant-ui.com/",
+  "homepage": "https://www.euraxluo.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/assistant-ui/assistant-ui/tree/main/packages/react-ui"
+    "url": "https://github.com/euraxluo/assistant-ui/tree/main/packages/react-ui"
   },
   "bugs": {
-    "url": "https://github.com/assistant-ui/assistant-ui/issues"
+    "url": "https://github.com/euraxluo/assistant-ui/issues"
   },
   "engines": {
     "node": ">=20.10.0"

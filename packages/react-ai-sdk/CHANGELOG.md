@@ -1,4 +1,4 @@
-# @assistant-ui/react-ai-sdk
+# @euraxluo/react-ai-sdk
 
 ## 0.7.16
 
@@ -6,7 +6,7 @@
 
 - ecde41d: feat: useVercelChatChat joinStrategy
 - Updated dependencies [3454871]
-  - @assistant-ui/react@0.7.85
+  - @euraxluo/react@0.7.85
 
 ## 0.7.15
 
@@ -14,7 +14,7 @@
 
 - 72e66db: chore: update dependencies
 - Updated dependencies [72e66db]
-  - @assistant-ui/react@0.7.71
+  - @euraxluo/react@0.7.71
 
 ## 0.7.14
 
@@ -23,7 +23,7 @@
 - 483c360: feat: useChatRuntime
 - Updated dependencies [f4d71da]
 - Updated dependencies [16cd124]
-  - @assistant-ui/react@0.7.66
+  - @euraxluo/react@0.7.66
 
 ## 0.7.13
 
@@ -33,7 +33,7 @@
 - efd60fe: fix(ai-sdk): onSwitchToThread
 - Updated dependencies [dba4dde]
 - Updated dependencies [efd60fe]
-  - @assistant-ui/react@0.7.56
+  - @euraxluo/react@0.7.56
 
 ## 0.7.12
 
@@ -41,7 +41,7 @@
 
 - 7f8c27e: fix: useInputSync IME composition support
 - Updated dependencies [0bf5082]
-  - @assistant-ui/react@0.7.55
+  - @euraxluo/react@0.7.55
 
 ## 0.7.11
 
@@ -50,7 +50,7 @@
 - 22272e6: chore: update dependencies
 - Updated dependencies [0979334]
 - Updated dependencies [22272e6]
-  - @assistant-ui/react@0.7.39
+  - @euraxluo/react@0.7.39
 
 ## 0.7.10
 
@@ -58,7 +58,7 @@
 
 - e8eedae: feat: RSCDisplay
 - Updated dependencies [5794b1b]
-  - @assistant-ui/react@0.7.38
+  - @euraxluo/react@0.7.38
 
 ## 0.7.9
 
@@ -70,7 +70,7 @@
 - Updated dependencies [b8b11d3]
 - Updated dependencies [889a55e]
 - Updated dependencies [a7d9e41]
-  - @assistant-ui/react@0.7.36
+  - @euraxluo/react@0.7.36
 
 ## 0.7.8
 
@@ -80,7 +80,7 @@
 - Updated dependencies [345f3d5]
 - Updated dependencies [345f3d5]
 - Updated dependencies [2846559]
-  - @assistant-ui/react@0.7.35
+  - @euraxluo/react@0.7.35
 
 ## 0.7.7
 
@@ -89,7 +89,7 @@
 - 4c2bf58: chore: update dependencies
 - Updated dependencies [9a3dc93]
 - Updated dependencies [4c2bf58]
-  - @assistant-ui/react@0.7.34
+  - @euraxluo/react@0.7.34
 
 ## 0.7.6
 
@@ -97,7 +97,7 @@
 
 - 982a6a2: chore: update dependencies
 - Updated dependencies [982a6a2]
-  - @assistant-ui/react@0.7.30
+  - @euraxluo/react@0.7.30
 
 ## 0.7.5
 
@@ -105,7 +105,7 @@
 
 - ec3b8cc: chore: update dependencies
 - Updated dependencies [ec3b8cc]
-  - @assistant-ui/react@0.7.19
+  - @euraxluo/react@0.7.19
 
 ## 0.7.4
 
@@ -114,7 +114,7 @@
 - 4c54273: chore: update dependencies
 - Updated dependencies [4c54273]
 - Updated dependencies [4c54273]
-  - @assistant-ui/react@0.7.12
+  - @euraxluo/react@0.7.12
 
 ## 0.7.3
 
@@ -123,7 +123,7 @@
 - 2112ce8: chore: update dependencies
 - Updated dependencies [589d37b]
 - Updated dependencies [2112ce8]
-  - @assistant-ui/react@0.7.8
+  - @euraxluo/react@0.7.8
 
 ## 0.7.2
 
@@ -132,7 +132,7 @@
 - 933b8c0: chore: update deps
 - Updated dependencies [933b8c0]
 - Updated dependencies [09a2a38]
-  - @assistant-ui/react@0.7.6
+  - @euraxluo/react@0.7.6
 
 ## 0.7.1
 
@@ -140,7 +140,7 @@
 
 - c59d8b5: chore: update dependencies
 - Updated dependencies [c59d8b5]
-  - @assistant-ui/react@0.7.5
+  - @euraxluo/react@0.7.5
 
 ## 0.7.0
 
@@ -148,7 +148,7 @@
 
 - Updated dependencies [c6e886b]
 - Updated dependencies [2912fda]
-  - @assistant-ui/react@0.7.0
+  - @euraxluo/react@0.7.0
 
 ## 0.6.19
 
@@ -156,7 +156,7 @@
 
 - b5f92fe: fix(external-store): crash on cancel when using separate converter, fix branching
 - Updated dependencies [b5f92fe]
-  - @assistant-ui/react@0.5.100
+  - @euraxluo/react@0.5.100
 
 ## 0.6.18
 
@@ -169,7 +169,7 @@
 - Updated dependencies [472c548]
 - Updated dependencies [14da684]
 - Updated dependencies [1ada091]
-  - @assistant-ui/react@0.5.99
+  - @euraxluo/react@0.5.99
 
 ## 0.6.17
 
@@ -179,7 +179,7 @@
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
-  - @assistant-ui/react@0.5.98
+  - @euraxluo/react@0.5.98
 
 ## 0.6.16
 
@@ -187,7 +187,7 @@
 
 - d2375cd: build: disable bundling in UI package releases
 - Updated dependencies [d2375cd]
-  - @assistant-ui/react@0.5.93
+  - @euraxluo/react@0.5.93
 
 ## 0.6.15
 
@@ -200,7 +200,7 @@
 - Updated dependencies [2090544]
 - Updated dependencies [fb32e61]
 - Updated dependencies [fb32e61]
-  - @assistant-ui/react@0.5.90
+  - @euraxluo/react@0.5.90
 
 ## 0.6.14
 
@@ -210,7 +210,7 @@
 - Updated dependencies [b38165d]
 - Updated dependencies [a1bfd26]
 - Updated dependencies [b38165d]
-  - @assistant-ui/react@0.5.87
+  - @euraxluo/react@0.5.87
 
 ## 0.6.13
 
@@ -229,7 +229,7 @@
 - Updated dependencies [899b963]
 - Updated dependencies [8c80f2a]
 - Updated dependencies [809c5c1]
-  - @assistant-ui/react@0.5.76
+  - @euraxluo/react@0.5.76
 
 ## 0.6.11
 
@@ -241,7 +241,7 @@
 - Updated dependencies [0ff22a7]
 - Updated dependencies [378ee99]
 - Updated dependencies [378ee99]
-  - @assistant-ui/react@0.5.73
+  - @euraxluo/react@0.5.73
 
 ## 0.6.10
 
@@ -252,7 +252,7 @@
 - Updated dependencies [9fd85da]
 - Updated dependencies [d8bd40b]
 - Updated dependencies [42156cf]
-  - @assistant-ui/react@0.5.68
+  - @euraxluo/react@0.5.68
 
 ## 0.6.9
 
@@ -262,7 +262,7 @@
 - Updated dependencies [88957ac]
 - Updated dependencies [1a99132]
 - Updated dependencies [3187013]
-  - @assistant-ui/react@0.5.61
+  - @euraxluo/react@0.5.61
 
 ## 0.6.8
 
@@ -272,7 +272,7 @@
 - Updated dependencies [926dce5]
 - Updated dependencies [155d6e7]
 - Updated dependencies [f80226f]
-  - @assistant-ui/react@0.5.60
+  - @euraxluo/react@0.5.60
 
 ## 0.6.7
 
@@ -281,7 +281,7 @@
 - e4863bb: feat(runtimes/external): add onSwitchToNewThread callback
 - Updated dependencies [e4863bb]
 - Updated dependencies [e4863bb]
-  - @assistant-ui/react@0.5.56
+  - @euraxluo/react@0.5.56
 
 ## 0.6.6
 
@@ -290,7 +290,7 @@
 - c348553: chore: update dependencies
 - Updated dependencies [0f99aa6]
 - Updated dependencies [c348553]
-  - @assistant-ui/react@0.5.54
+  - @euraxluo/react@0.5.54
 
 ## 0.6.5
 
@@ -301,7 +301,7 @@
 - Updated dependencies [f0f7497]
 - Updated dependencies [8555685]
 - Updated dependencies [892b019]
-  - @assistant-ui/react@0.5.53
+  - @euraxluo/react@0.5.53
 
 ## 0.6.4
 
@@ -309,7 +309,7 @@
 
 - 04f6fc8: chore: update deps
 - Updated dependencies [04f6fc8]
-  - @assistant-ui/react@0.5.50
+  - @euraxluo/react@0.5.50
 
 ## 0.6.3
 
@@ -339,7 +339,7 @@
 - Updated dependencies [3ba193e]
 - Updated dependencies [d2580d3]
 - Updated dependencies [44d08bd]
-  - @assistant-ui/react@0.5.47
+  - @euraxluo/react@0.5.47
 
 ## 0.6.2
 
@@ -349,7 +349,7 @@
 - e8aa697: refactor: remove unsupported external runtime onCopy callback
 - Updated dependencies [f526279]
 - Updated dependencies [e8aa697]
-  - @assistant-ui/react@0.5.41
+  - @euraxluo/react@0.5.41
 
 ## 0.6.1
 
@@ -357,7 +357,7 @@
 
 - 554a423: chore: update deps
 - Updated dependencies [554a423]
-  - @assistant-ui/react@0.5.38
+  - @euraxluo/react@0.5.38
 
 ## 0.6.0
 
@@ -368,7 +368,7 @@
 ### Patch Changes
 
 - Updated dependencies [cd70d4f]
-  - @assistant-ui/react@0.5.32
+  - @euraxluo/react@0.5.32
 
 ## 0.5.16
 
@@ -378,7 +378,7 @@
 - Updated dependencies [34621cc]
 - Updated dependencies [2df3e73]
 - Updated dependencies [1b9ded0]
-  - @assistant-ui/react@0.5.31
+  - @euraxluo/react@0.5.31
 
 ## 0.5.15
 
@@ -387,7 +387,7 @@
 - 556001f: chore: update deps
 - Updated dependencies [556001f]
 - Updated dependencies [556001f]
-  - @assistant-ui/react@0.5.29
+  - @euraxluo/react@0.5.29
 
 ## 0.5.14
 
@@ -396,7 +396,7 @@
 - dbf1042: chore: update deps
 - Updated dependencies [dbf1042]
 - Updated dependencies [dbf1042]
-  - @assistant-ui/react@0.5.27
+  - @euraxluo/react@0.5.27
 
 ## 0.5.13
 
@@ -406,7 +406,7 @@
 - Updated dependencies [0445cdf]
 - Updated dependencies [0445cdf]
 - Updated dependencies [71f4b77]
-  - @assistant-ui/react@0.5.25
+  - @euraxluo/react@0.5.25
 
 ## 0.5.12
 
@@ -420,16 +420,16 @@
 
 - 134d39e: fix: undo moving internal utilities to /react/internal
 - Updated dependencies [134d39e]
-  - @assistant-ui/react@0.5.22
+  - @euraxluo/react@0.5.22
 
 ## 0.5.10
 
 ### Patch Changes
 
-- 3cc67f2: refactor: move internal utilities to @assistant-ui/react/internal
+- 3cc67f2: refactor: move internal utilities to @euraxluo/react/internal
 - Updated dependencies [de04d92]
 - Updated dependencies [3cc67f2]
-  - @assistant-ui/react@0.5.20
+  - @euraxluo/react@0.5.20
 
 ## 0.5.9
 
@@ -437,7 +437,7 @@
 
 - 9dc942f: feat: useThread.isDisabled flag
 - Updated dependencies [9dc942f]
-  - @assistant-ui/react@0.5.16
+  - @euraxluo/react@0.5.16
 
 ## 0.5.8
 
@@ -445,7 +445,7 @@
 
 - 461bf80: feat(rsc): isRunning support
 - Updated dependencies [0418c73]
-  - @assistant-ui/react@0.5.15
+  - @euraxluo/react@0.5.15
 
 ## 0.5.7
 
@@ -453,7 +453,7 @@
 
 - a216fbf: chore: update deps
 - Updated dependencies [a216fbf]
-  - @assistant-ui/react@0.5.9
+  - @euraxluo/react@0.5.9
 
 ## 0.5.6
 
@@ -461,7 +461,7 @@
 
 - e5e6b20: feat(runtime): BranchPicker feature detection
 - Updated dependencies [e5e6b20]
-  - @assistant-ui/react@0.5.6
+  - @euraxluo/react@0.5.6
 
 ## 0.5.5
 
@@ -469,7 +469,7 @@
 
 - cb74cac: fix: move tsup dependency to devDependencies
 - Updated dependencies [f26783a]
-  - @assistant-ui/react@0.5.5
+  - @euraxluo/react@0.5.5
 
 ## 0.5.4
 
@@ -477,7 +477,7 @@
 
 - f2d7590: fix(rsc): hide copy message button
 - Updated dependencies [f2d7590]
-  - @assistant-ui/react@0.5.4
+  - @euraxluo/react@0.5.4
 
 ## 0.5.3
 
@@ -491,7 +491,7 @@
 
 - 1acdf45: feat: external store runtime
 - Updated dependencies [1acdf45]
-  - @assistant-ui/react@0.5.3
+  - @euraxluo/react@0.5.3
 
 ## 0.5.1
 
@@ -502,7 +502,7 @@
 - Updated dependencies [ee38c0c]
 - Updated dependencies [ee38c0c]
 - Updated dependencies [2baa898]
-  - @assistant-ui/react@0.5.1
+  - @euraxluo/react@0.5.1
 
 ## 0.4.1
 
@@ -510,7 +510,7 @@
 
 - 998081b: fix: reduce specificity of built-in CSS styles
 - Updated dependencies [998081b]
-  - @assistant-ui/react@0.4.4
+  - @euraxluo/react@0.4.4
 
 ## 0.4.0
 
@@ -525,7 +525,7 @@
 - Updated dependencies [e0e51cf]
 - Updated dependencies [e0e51cf]
 - Updated dependencies [679cd54]
-  - @assistant-ui/react@0.4.0
+  - @euraxluo/react@0.4.0
 
 ## 0.3.1
 
@@ -533,7 +533,7 @@
 
 - 05fd5d6: feat: runtime capabilities API
 - Updated dependencies [05fd5d6]
-  - @assistant-ui/react@0.3.1
+  - @euraxluo/react@0.3.1
 
 ## 0.3.0
 
@@ -542,7 +542,7 @@
 - Updated dependencies [3dd7384]
 - Updated dependencies [23f474e]
 - Updated dependencies [5b68f4a]
-  - @assistant-ui/react@0.3.0
+  - @euraxluo/react@0.3.0
 
 ## 0.2.3
 
@@ -550,7 +550,7 @@
 
 - be2c26b: fix: Vercel useAssistant BranchPicker duplicates bug
 - Updated dependencies [be2c26b]
-  - @assistant-ui/react@0.2.3
+  - @euraxluo/react@0.2.3
 
 ## 0.2.2
 
@@ -567,7 +567,7 @@
 - Updated dependencies [62e9f19]
 - Updated dependencies [611fdcc]
 - Updated dependencies [ca0eaa1]
-  - @assistant-ui/react@0.2.2
+  - @euraxluo/react@0.2.2
 
 ## 0.2.0
 
@@ -579,7 +579,7 @@
 
 - Updated dependencies [de20b1c]
 - Updated dependencies [2ab2cab]
-  - @assistant-ui/react@0.2.0
+  - @euraxluo/react@0.2.0
 
 ## 0.1.7
 
@@ -587,7 +587,7 @@
 
 - 8513f9a: feat: ToolUI addResult API
 - Updated dependencies [8513f9a]
-  - @assistant-ui/react@0.1.8
+  - @euraxluo/react@0.1.8
 
 ## 0.1.6
 
@@ -597,7 +597,7 @@
 - Updated dependencies [36f3a1f]
 - Updated dependencies [36f3a1f]
 - Updated dependencies [36f3a1f]
-  - @assistant-ui/react@0.1.7
+  - @euraxluo/react@0.1.7
 
 ## 0.1.4
 
@@ -607,4 +607,4 @@
 - 6e9528d: feat: add useAssistantTool API
 - Updated dependencies [6e9528d]
 - Updated dependencies [6e9528d]
-  - @assistant-ui/react@0.1.3
+  - @euraxluo/react@0.1.3

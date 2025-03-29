@@ -13,7 +13,7 @@ const error = debug("codemod:upgrade:error");
  * Runs the upgrade cycle:
  *   - Runs each codemod in the bundle.
  *   - Displays progress using cli-progress.
- *   - After codemods run, checks if any file now imports from "@assistant-ui/react-ui".
+ *   - After codemods run, checks if any file now imports from "@euraxluo/react-ui".
  *     If so, prompts the user to install the package.
  */
 export async function upgrade(options: TransformOptions) {
@@ -43,7 +43,7 @@ export async function upgrade(options: TransformOptions) {
     });
   }
 
-  // After codemods run, check if any file imports "@assistant-ui/react-ui" and prompt for install.
+  // After codemods run, check if any file imports "@euraxluo/react-ui" and prompt for install.
   await installReactUILib();
 
   log("Upgrade complete.");

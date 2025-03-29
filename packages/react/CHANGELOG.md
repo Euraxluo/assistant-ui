@@ -1,4 +1,10 @@
-# @assistant-ui/react
+# @euraxluo/react
+
+## 0.8.6
+
+### Patch Changes
+
+- 2497388: fix: useAssistantInstructions should correctly update on disabled change
 
 ## 0.8.5
 
@@ -34,11 +40,11 @@
 
 ### Breaking changes
 
-- pre-styled UI components have moved to `@assistant-ui/react-ui`
+- pre-styled UI components have moved to `@euraxluo/react-ui`
 - run `npx assistant-ui upgrade` to update your codebase
-- manual upgrade: change styled component imports from `@assistant-ui/react` to `@assistant-ui/react-ui` (and same with markdown)
+- manual upgrade: change styled component imports from `@euraxluo/react` to `@euraxluo/react-ui` (and same with markdown)
 
-* manual upgrade: change styled component imports from `@assistant-ui/react` to `@assistant-ui/react-ui` (and same with Markdown)
+* manual upgrade: change styled component imports from `@euraxluo/react` to `@euraxluo/react-ui` (and same with Markdown)
 
 ## 0.7.91
 
@@ -222,7 +228,7 @@
 
 ### Patch Changes
 
-- 6703842: feat: codemod to migrate to @assistant-ui/react-ui
+- 6703842: feat: codemod to migrate to @euraxluo/react-ui
 - 79f7120: feat: createMessageConverter API
 
 ## 0.7.63
@@ -670,7 +676,7 @@
 
 ### Patch Changes
 
-- ff5b86c: build: refactor build script into @assistant-ui/tsbuildutils
+- ff5b86c: build: refactor build script into @euraxluo/tsbuildutils
 - ff5b86c: fix: better ESM compatibility
 - ff5b86c: chore: update deps
 
@@ -1204,7 +1210,7 @@
 ### Patch Changes
 
 - de04d92: feat: loading status & smooth streaming interop
-- 3cc67f2: refactor: move internal utilities to @assistant-ui/react/internal
+- 3cc67f2: refactor: move internal utilities to @euraxluo/react/internal
 
 ## 0.5.19
 

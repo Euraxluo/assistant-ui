@@ -5,7 +5,7 @@ import {
   useExternalStoreRuntime,
   useThread,
   useThreadListItemRuntime,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import { convertLangChainMessages } from "./convertLangChainMessages";
 import {
   LangGraphCommand,
@@ -14,12 +14,12 @@ import {
   LangGraphStreamCallback,
   useLangGraphMessages,
 } from "./useLangGraphMessages";
-import { SimpleImageAttachmentAdapter } from "@assistant-ui/react";
-import { AttachmentAdapter } from "@assistant-ui/react";
-import { AppendMessage } from "@assistant-ui/react";
-import { ExternalStoreAdapter } from "@assistant-ui/react";
-import { FeedbackAdapter } from "@assistant-ui/react";
-import { SpeechSynthesisAdapter } from "@assistant-ui/react";
+import { SimpleImageAttachmentAdapter } from "@euraxluo/react";
+import { AttachmentAdapter } from "@euraxluo/react";
+import { AppendMessage } from "@euraxluo/react";
+import { ExternalStoreAdapter } from "@euraxluo/react";
+import { FeedbackAdapter } from "@euraxluo/react";
+import { SpeechSynthesisAdapter } from "@euraxluo/react";
 import { appendLangChainChunk } from "./appendLangChainChunk";
 
 const getPendingToolCalls = (messages: LangChainMessage[]) => {

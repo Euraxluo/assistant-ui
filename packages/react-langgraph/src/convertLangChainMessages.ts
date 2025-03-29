@@ -1,9 +1,9 @@
 "use client";
 
-import { useExternalMessageConverter } from "@assistant-ui/react";
+import { useExternalMessageConverter } from "@euraxluo/react";
 import { LangChainMessage } from "./types";
-import { ToolCallContentPart } from "@assistant-ui/react";
-import { ThreadUserMessage } from "@assistant-ui/react";
+import { ToolCallContentPart } from "@euraxluo/react";
+import { ThreadUserMessage } from "@euraxluo/react";
 
 const contentToParts = (content: LangChainMessage["content"]) => {
   if (typeof content === "string")

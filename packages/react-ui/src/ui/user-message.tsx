@@ -1,5 +1,5 @@
 import { ComponentPropsWithoutRef, forwardRef, type FC } from "react";
-import { MessagePrimitive } from "@assistant-ui/react";
+import { MessagePrimitive } from "@euraxluo/react";
 
 import BranchPicker from "./branch-picker";
 import { withDefaults } from "./utils/withDefaults";

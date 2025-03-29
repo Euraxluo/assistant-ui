@@ -3,13 +3,13 @@ import { convertMessage } from "../utils/convertMessage";
 import {
   useExternalMessageConverter,
   useExternalStoreRuntime,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import { useInputSync } from "../utils/useInputSync";
 import { sliceMessagesUntil } from "../utils/sliceMessagesUntil";
 import { toCreateMessage } from "../utils/toCreateMessage";
 import { vercelAttachmentAdapter } from "../utils/vercelAttachmentAdapter";
 import { getVercelAIMessages } from "../getVercelAIMessages";
-import { ExternalStoreAdapter } from "@assistant-ui/react";
+import { ExternalStoreAdapter } from "@euraxluo/react";
 import { useState } from "react";
 import { generateId } from "@ai-sdk/ui-utils";
 

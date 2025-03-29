@@ -1,7 +1,7 @@
 "use client";
 
 import { ComponentPropsWithoutRef, forwardRef, useMemo, type FC } from "react";
-import { MessagePrimitive } from "@assistant-ui/react";
+import { MessagePrimitive } from "@euraxluo/react";
 import BranchPicker from "./branch-picker";
 import { Avatar } from "./base/avatar";
 import { withDefaults } from "./utils/withDefaults";

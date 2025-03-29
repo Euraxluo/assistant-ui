@@ -3,7 +3,7 @@ import {
   useThread,
   useMessage,
   getExternalStoreMessage,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import {
   RSCThreadExtras,
   symbolInternalRSCExtras,

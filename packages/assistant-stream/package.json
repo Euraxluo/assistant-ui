@@ -38,7 +38,7 @@
     "build": "tsx scripts/build.mts"
   },
   "devDependencies": {
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/tsconfig": "workspace:*",
     "ai": "^4.1.25",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
@@ -48,13 +48,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://www.assistant-ui.com/",
+  "homepage": "https://www.euraxluo.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/assistant-ui/assistant-ui.git"
+    "url": "git+https://github.com/euraxluo/assistant-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/assistant-ui/assistant-ui/issues"
+    "url": "https://github.com/euraxluo/assistant-ui/issues"
   },
   "dependencies": {
     "nanoid": "3.3.8",

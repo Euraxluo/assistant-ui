@@ -1,12 +1,12 @@
 {
-  "name": "@assistant-ui/tsbuildutils",
+  "name": "@euraxluo/tsbuildutils",
   "version": "0.0.1",
   "private": true,
   "main": "./src/index.ts",
   "type": "module",
   "dependencies": {
-    "@assistant-ui/tailwindcss-transformer": "workspace:^",
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/tailwindcss-transformer": "workspace:^",
+    "@euraxluo/tsconfig": "workspace:*",
     "cross-spawn": "^7.0.6",
     "esbuild-plugin-file-path-extensions": "^2.1.4",
     "postcss": "^8.5.1",

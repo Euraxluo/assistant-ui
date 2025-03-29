@@ -6,7 +6,7 @@ import { PencilIcon } from "lucide-react";
 import { TooltipIconButton } from "./base/tooltip-icon-button";
 import { withDefaults } from "./utils/withDefaults";
 import { useThreadConfig } from "./thread-config";
-import { useThread, ActionBarPrimitive } from "@assistant-ui/react";
+import { useThread, ActionBarPrimitive } from "@euraxluo/react";
 
 const useAllowEdit = (ensureCapability = false) => {
   const { userMessage: { allowEdit = true } = {} } = useThreadConfig();

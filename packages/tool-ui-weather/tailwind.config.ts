@@ -51,7 +51,7 @@ const config = {
   },
   plugins: [
     animatePlugin,
-    require("@assistant-ui/react-ui/tailwindcss")({ components: [] }),
+    require("@euraxluo/react-ui/tailwindcss")({ components: [] }),
   ],
 } satisfies Config;
 

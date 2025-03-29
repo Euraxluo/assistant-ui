@@ -1,4 +1,4 @@
-# @assistant-ui/react-langgraph
+# @euraxluo/react-langgraph
 
 ## 0.3.0
 
@@ -9,7 +9,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @assistant-ui/react@0.8.5
+  - @euraxluo/react@0.8.5
 
 ## 0.2.6
 
@@ -29,7 +29,7 @@
 
 - 72e66db: chore: update dependencies
 - Updated dependencies [72e66db]
-  - @assistant-ui/react@0.7.71
+  - @euraxluo/react@0.7.71
 
 ## 0.2.3
 
@@ -39,7 +39,7 @@
 - Updated dependencies [8ec1f07]
 - Updated dependencies [4f5d77f]
 - Updated dependencies [8ec1f07]
-  - @assistant-ui/react@0.7.59
+  - @euraxluo/react@0.7.59
 
 ## 0.2.2
 
@@ -49,7 +49,7 @@
 - Updated dependencies
 - Updated dependencies
 - Updated dependencies [2713487]
-  - @assistant-ui/react@0.7.46
+  - @euraxluo/react@0.7.46
 
 ## 0.2.1
 
@@ -58,7 +58,7 @@
 - 177bcce: feat: interrupt state stream support
 - Updated dependencies [9934aef]
 - Updated dependencies [3a8b55a]
-  - @assistant-ui/react@0.7.45
+  - @euraxluo/react@0.7.45
 
 ## 0.1.18
 
@@ -67,7 +67,7 @@
 - 22272e6: chore: update dependencies
 - Updated dependencies [0979334]
 - Updated dependencies [22272e6]
-  - @assistant-ui/react@0.7.39
+  - @euraxluo/react@0.7.39
 
 ## 0.1.17
 
@@ -75,7 +75,7 @@
 
 - 9dfa127: refactor: rewrite message stream parser
 - Updated dependencies [5794b1b]
-  - @assistant-ui/react@0.7.38
+  - @euraxluo/react@0.7.38
 
 ## 0.1.16
 
@@ -85,7 +85,7 @@
 - Updated dependencies [345f3d5]
 - Updated dependencies [345f3d5]
 - Updated dependencies [2846559]
-  - @assistant-ui/react@0.7.35
+  - @euraxluo/react@0.7.35
 
 ## 0.1.15
 
@@ -100,7 +100,7 @@
 - 4c2bf58: chore: update dependencies
 - Updated dependencies [9a3dc93]
 - Updated dependencies [4c2bf58]
-  - @assistant-ui/react@0.7.34
+  - @euraxluo/react@0.7.34
 
 ## 0.1.13
 
@@ -114,7 +114,7 @@
 
 - 982a6a2: chore: update dependencies
 - Updated dependencies [982a6a2]
-  - @assistant-ui/react@0.7.30
+  - @euraxluo/react@0.7.30
 
 ## 0.1.11
 
@@ -122,7 +122,7 @@
 
 - 392188c: fix: wrong import path causing crash
 - Updated dependencies [a8ac203]
-  - @assistant-ui/react@0.7.28
+  - @euraxluo/react@0.7.28
 
 ## 0.1.10
 
@@ -131,7 +131,7 @@
 - 18c21b2: feat: cancellation support
 - Updated dependencies [528cfd3]
 - Updated dependencies [3c70ea1]
-  - @assistant-ui/react@0.7.27
+  - @euraxluo/react@0.7.27
 
 ## 0.1.9
 
@@ -141,7 +141,7 @@
 - 738ef3c: feat: support for Command
 - 738ef3c: feat: interrupt+Command support via useLangGraphRuntimeSendCommand
 - Updated dependencies [6a17ec2]
-  - @assistant-ui/react@0.7.26
+  - @euraxluo/react@0.7.26
 
 ## 0.1.8
 
@@ -149,7 +149,7 @@
 
 - ec3b8cc: chore: update dependencies
 - Updated dependencies [ec3b8cc]
-  - @assistant-ui/react@0.7.19
+  - @euraxluo/react@0.7.19
 
 ## 0.1.7
 
@@ -158,7 +158,7 @@
 - 4c54273: chore: update dependencies
 - Updated dependencies [4c54273]
 - Updated dependencies [4c54273]
-  - @assistant-ui/react@0.7.12
+  - @euraxluo/react@0.7.12
 
 ## 0.1.6
 
@@ -167,7 +167,7 @@
 - 2112ce8: chore: update dependencies
 - Updated dependencies [589d37b]
 - Updated dependencies [2112ce8]
-  - @assistant-ui/react@0.7.8
+  - @euraxluo/react@0.7.8
 
 ## 0.1.5
 
@@ -176,7 +176,7 @@
 - 933b8c0: chore: update deps
 - Updated dependencies [933b8c0]
 - Updated dependencies [09a2a38]
-  - @assistant-ui/react@0.7.6
+  - @euraxluo/react@0.7.6
 
 ## 0.1.4
 
@@ -184,7 +184,7 @@
 
 - c59d8b5: chore: update dependencies
 - Updated dependencies [c59d8b5]
-  - @assistant-ui/react@0.7.5
+  - @euraxluo/react@0.7.5
 
 ## 0.1.3
 
@@ -193,7 +193,7 @@
 - b63fff1: feat: pass a string instead of an array content for text-only messages
 - Updated dependencies [5462390]
 - Updated dependencies [0fb80c1]
-  - @assistant-ui/react@0.7.4
+  - @euraxluo/react@0.7.4
 
 ## 0.1.2
 
@@ -201,7 +201,7 @@
 
 - 147a8a2: fix: types for adapters
 - Updated dependencies [0dcd9cf]
-  - @assistant-ui/react@0.7.3
+  - @euraxluo/react@0.7.3
 
 ## 0.1.1
 
@@ -215,7 +215,7 @@
 
 - Updated dependencies [c6e886b]
 - Updated dependencies [2912fda]
-  - @assistant-ui/react@0.7.0
+  - @euraxluo/react@0.7.0
 
 ## 0.0.25
 
@@ -228,7 +228,7 @@
 - Updated dependencies [472c548]
 - Updated dependencies [14da684]
 - Updated dependencies [1ada091]
-  - @assistant-ui/react@0.5.99
+  - @euraxluo/react@0.5.99
 
 ## 0.0.24
 
@@ -238,7 +238,7 @@
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
-  - @assistant-ui/react@0.5.98
+  - @euraxluo/react@0.5.98
 
 ## 0.0.23
 
@@ -246,7 +246,7 @@
 
 - d2375cd: build: disable bundling in UI package releases
 - Updated dependencies [d2375cd]
-  - @assistant-ui/react@0.5.93
+  - @euraxluo/react@0.5.93
 
 ## 0.0.22
 
@@ -259,7 +259,7 @@
 - Updated dependencies [2090544]
 - Updated dependencies [fb32e61]
 - Updated dependencies [fb32e61]
-  - @assistant-ui/react@0.5.90
+  - @euraxluo/react@0.5.90
 
 ## 0.0.21
 
@@ -297,7 +297,7 @@
 
 - ea90b84: fix(langgraph): allow complex content in ai messages
 - Updated dependencies [0a3bd06]
-  - @assistant-ui/react@0.5.77
+  - @euraxluo/react@0.5.77
 
 ## 0.0.15
 
@@ -310,7 +310,7 @@
 - Updated dependencies [899b963]
 - Updated dependencies [8c80f2a]
 - Updated dependencies [809c5c1]
-  - @assistant-ui/react@0.5.76
+  - @euraxluo/react@0.5.76
 
 ## 0.0.14
 
@@ -319,7 +319,7 @@
 - ce93e73: feat: handle MessageContentComplex types
 - Updated dependencies [3d31f10]
 - Updated dependencies [cf872da]
-  - @assistant-ui/react@0.5.74
+  - @euraxluo/react@0.5.74
 
 ## 0.0.13
 
@@ -331,7 +331,7 @@
 - Updated dependencies [0ff22a7]
 - Updated dependencies [378ee99]
 - Updated dependencies [378ee99]
-  - @assistant-ui/react@0.5.73
+  - @euraxluo/react@0.5.73
 
 ## 0.0.12
 
@@ -359,7 +359,7 @@
 - Updated dependencies [88957ac]
 - Updated dependencies [1a99132]
 - Updated dependencies [3187013]
-  - @assistant-ui/react@0.5.61
+  - @euraxluo/react@0.5.61
 
 ## 0.0.8
 
@@ -369,7 +369,7 @@
 - Updated dependencies [926dce5]
 - Updated dependencies [155d6e7]
 - Updated dependencies [f80226f]
-  - @assistant-ui/react@0.5.60
+  - @euraxluo/react@0.5.60
 
 ## 0.0.7
 
@@ -378,7 +378,7 @@
 - e4863bb: feat(langgraph): add support for switching threads
 - Updated dependencies [e4863bb]
 - Updated dependencies [e4863bb]
-  - @assistant-ui/react@0.5.56
+  - @euraxluo/react@0.5.56
 
 ## 0.0.6
 
@@ -387,7 +387,7 @@
 - c348553: chore: update dependencies
 - Updated dependencies [0f99aa6]
 - Updated dependencies [c348553]
-  - @assistant-ui/react@0.5.54
+  - @euraxluo/react@0.5.54
 
 ## 0.0.5
 
@@ -408,7 +408,7 @@
 - c1c0440: refactor: rename to useLangGraphRuntime
 - Updated dependencies [164e46c]
 - Updated dependencies [5eccae7]
-  - @assistant-ui/react@0.5.51
+  - @euraxluo/react@0.5.51
 
 ## 0.0.2
 
@@ -416,7 +416,7 @@
 
 - 04f6fc8: chore: update deps
 - Updated dependencies [04f6fc8]
-  - @assistant-ui/react@0.5.50
+  - @euraxluo/react@0.5.50
 
 ## 0.0.1
 
@@ -424,4 +424,4 @@
 
 - 5c1ca35: feat: initial release
 - Updated dependencies [fb8e58f]
-  - @assistant-ui/react@0.5.45
+  - @euraxluo/react@0.5.45

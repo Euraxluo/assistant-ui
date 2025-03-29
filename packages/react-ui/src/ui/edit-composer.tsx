@@ -5,7 +5,7 @@ import { forwardRef, type FC } from "react";
 import { Button, ButtonProps } from "./base/button";
 import { withDefaults } from "./utils/withDefaults";
 import { useThreadConfig } from "./thread-config";
-import { ComposerPrimitive } from "@assistant-ui/react";
+import { ComposerPrimitive } from "@euraxluo/react";
 
 const EditComposer: FC = () => {
   return (

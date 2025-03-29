@@ -1,5 +1,5 @@
 {
-  "name": "@assistant-ui/react-ai-sdk",
+  "name": "@euraxluo/react-ai-sdk",
   "version": "0.8.0",
   "license": "MIT",
   "exports": {
@@ -34,7 +34,7 @@
     "zustand": "^5.0.3"
   },
   "peerDependencies": {
-    "@assistant-ui/react": "^0.8.5",
+    "@euraxluo/react": "^0.8.6",
     "@types/react": "*",
     "react": "^18 || ^19 || ^19.0.0-rc"
   },
@@ -44,8 +44,8 @@
     }
   },
   "devDependencies": {
-    "@assistant-ui/react": "workspace:*",
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/react": "workspace:*",
+    "@euraxluo/tsconfig": "workspace:*",
     "eslint-config-next": "15.1.6",
     "tsup": "8.3.6"
   },
@@ -53,12 +53,12 @@
     "access": "public",
     "provenance": true
   },
-  "homepage": "https://www.assistant-ui.com/",
+  "homepage": "https://www.euraxluo.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/assistant-ui/assistant-ui.git"
+    "url": "git+https://github.com/euraxluo/assistant-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/assistant-ui/assistant-ui/issues"
+    "url": "https://github.com/euraxluo/assistant-ui/issues"
   }
 }

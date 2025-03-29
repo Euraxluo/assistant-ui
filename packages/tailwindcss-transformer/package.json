@@ -1,5 +1,5 @@
 {
-  "name": "@assistant-ui/tailwindcss-transformer",
+  "name": "@euraxluo/tailwindcss-transformer",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
@@ -9,7 +9,7 @@
     "postcss-value-parser": "^4.2.0"
   },
   "devDependencies": {
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/tsconfig": "workspace:*",
     "eslint-config-next": "15.1.6"
   }
 }

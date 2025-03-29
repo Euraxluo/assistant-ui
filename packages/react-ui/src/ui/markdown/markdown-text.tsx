@@ -6,8 +6,8 @@ import {
   MarkdownTextPrimitiveProps,
   unstable_memoizeMarkdownComponents,
   useIsMarkdownCodeBlock,
-} from "@assistant-ui/react-markdown";
-import { INTERNAL } from "@assistant-ui/react";
+} from "@euraxluo/react-markdown";
+import { INTERNAL } from "@euraxluo/react";
 
 const { withSmoothContextProvider, useSmoothStatus } = INTERNAL;
 

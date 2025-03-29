@@ -3,7 +3,7 @@
 import { type FC, forwardRef } from "react";
 import { BotIcon, ChevronDownIcon } from "lucide-react";
 
-import { AssistantModalPrimitive } from "@assistant-ui/react";
+import { AssistantModalPrimitive } from "@euraxluo/react";
 import Thread from "./thread";
 import { withDefaults } from "./utils/withDefaults";
 import { TooltipIconButton } from "./base/tooltip-icon-button";

@@ -1,3 +1,3 @@
 # `@too-ui/weather`
 
-A `<Weather />` component for `@assistant-ui/react`.
+A `<Weather />` component for `@euraxluo/react`.

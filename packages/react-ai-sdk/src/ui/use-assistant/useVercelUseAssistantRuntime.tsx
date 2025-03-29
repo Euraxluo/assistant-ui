@@ -2,12 +2,12 @@ import type { useAssistant } from "@ai-sdk/react";
 import {
   useExternalMessageConverter,
   useExternalStoreRuntime,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import { convertMessage } from "../utils/convertMessage";
 import { useInputSync } from "../utils/useInputSync";
 import { toCreateMessage } from "../utils/toCreateMessage";
 import { vercelAttachmentAdapter } from "../utils/vercelAttachmentAdapter";
-import { ExternalStoreAdapter } from "@assistant-ui/react";
+import { ExternalStoreAdapter } from "@euraxluo/react";
 
 export type VercelUseChatAdapter = {
   adapters?:

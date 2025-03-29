@@ -11,7 +11,7 @@ import {
   ComposerPrimitive,
   ThreadPrimitive,
   useThread,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import Attachment from "./attachment-ui";
 
 const useAllowAttachments = (ensureCapability = false) => {

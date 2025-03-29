@@ -19,7 +19,7 @@ import {
   AssistantToolUI,
   useAssistantRuntime,
   ReasoningContentPartComponent,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 
 export type SuggestionConfig = {
   text?: ReactNode | undefined;

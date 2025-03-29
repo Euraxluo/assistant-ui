@@ -4,7 +4,7 @@ import { ComponentPropsWithoutRef, forwardRef, type FC } from "react";
 import { withDefaults } from "./utils/withDefaults";
 import { Avatar } from "./base/avatar";
 import { SuggestionConfig, useThreadConfig } from "./thread-config";
-import { ThreadPrimitive, useThread } from "@assistant-ui/react";
+import { ThreadPrimitive, useThread } from "@euraxluo/react";
 
 const ThreadWelcome: FC = () => {
   return (

@@ -1,4 +1,4 @@
-# @assistant-ui/react-syntax-highlighter
+# @euraxluo/react-syntax-highlighter
 
 ## 0.7.10
 
@@ -6,8 +6,8 @@
 
 - 72e66db: chore: update dependencies
 - Updated dependencies [72e66db]
-  - @assistant-ui/react-markdown@0.7.18
-  - @assistant-ui/react@0.7.71
+  - @euraxluo/react-markdown@0.7.18
+  - @euraxluo/react@0.7.71
 
 ## 0.7.9
 
@@ -16,8 +16,8 @@
 - 22272e6: chore: update dependencies
 - Updated dependencies [0979334]
 - Updated dependencies [22272e6]
-  - @assistant-ui/react@0.7.39
-  - @assistant-ui/react-markdown@0.7.11
+  - @euraxluo/react@0.7.39
+  - @euraxluo/react-markdown@0.7.11
 
 ## 0.7.8
 
@@ -27,8 +27,8 @@
 - Updated dependencies [345f3d5]
 - Updated dependencies [345f3d5]
 - Updated dependencies [2846559]
-  - @assistant-ui/react-markdown@0.7.10
-  - @assistant-ui/react@0.7.35
+  - @euraxluo/react-markdown@0.7.10
+  - @euraxluo/react@0.7.35
 
 ## 0.7.7
 
@@ -37,8 +37,8 @@
 - 4c2bf58: chore: update dependencies
 - Updated dependencies [9a3dc93]
 - Updated dependencies [4c2bf58]
-  - @assistant-ui/react@0.7.34
-  - @assistant-ui/react-markdown@0.7.9
+  - @euraxluo/react@0.7.34
+  - @euraxluo/react-markdown@0.7.9
 
 ## 0.7.6
 
@@ -46,8 +46,8 @@
 
 - 982a6a2: chore: update dependencies
 - Updated dependencies [982a6a2]
-  - @assistant-ui/react-markdown@0.7.8
-  - @assistant-ui/react@0.7.30
+  - @euraxluo/react-markdown@0.7.8
+  - @euraxluo/react@0.7.30
 
 ## 0.7.5
 
@@ -55,8 +55,8 @@
 
 - ec3b8cc: chore: update dependencies
 - Updated dependencies [ec3b8cc]
-  - @assistant-ui/react-markdown@0.7.7
-  - @assistant-ui/react@0.7.19
+  - @euraxluo/react-markdown@0.7.7
+  - @euraxluo/react@0.7.19
 
 ## 0.7.4
 
@@ -66,8 +66,8 @@
 - Updated dependencies [4c54273]
 - Updated dependencies [4c54273]
 - Updated dependencies [4c54273]
-  - @assistant-ui/react-markdown@0.7.5
-  - @assistant-ui/react@0.7.12
+  - @euraxluo/react-markdown@0.7.5
+  - @euraxluo/react@0.7.12
 
 ## 0.7.3
 
@@ -76,8 +76,8 @@
 - 2112ce8: chore: update dependencies
 - Updated dependencies [589d37b]
 - Updated dependencies [2112ce8]
-  - @assistant-ui/react@0.7.8
-  - @assistant-ui/react-markdown@0.7.3
+  - @euraxluo/react@0.7.8
+  - @euraxluo/react-markdown@0.7.3
 
 ## 0.7.2
 
@@ -86,8 +86,8 @@
 - 933b8c0: chore: update deps
 - Updated dependencies [933b8c0]
 - Updated dependencies [09a2a38]
-  - @assistant-ui/react-markdown@0.7.2
-  - @assistant-ui/react@0.7.6
+  - @euraxluo/react-markdown@0.7.2
+  - @euraxluo/react@0.7.6
 
 ## 0.7.1
 
@@ -95,8 +95,8 @@
 
 - c59d8b5: chore: update dependencies
 - Updated dependencies [c59d8b5]
-  - @assistant-ui/react-markdown@0.7.1
-  - @assistant-ui/react@0.7.5
+  - @euraxluo/react-markdown@0.7.1
+  - @euraxluo/react@0.7.5
 
 ## 0.7.0
 
@@ -104,8 +104,8 @@
 
 - Updated dependencies [c6e886b]
 - Updated dependencies [2912fda]
-  - @assistant-ui/react@0.7.0
-  - @assistant-ui/react-markdown@0.7.0
+  - @euraxluo/react@0.7.0
+  - @euraxluo/react-markdown@0.7.0
 
 ## 0.0.18
 
@@ -118,8 +118,8 @@
 - Updated dependencies [472c548]
 - Updated dependencies [14da684]
 - Updated dependencies [1ada091]
-  - @assistant-ui/react@0.5.99
-  - @assistant-ui/react-markdown@0.2.27
+  - @euraxluo/react@0.5.99
+  - @euraxluo/react-markdown@0.2.27
 
 ## 0.0.17
 
@@ -129,8 +129,8 @@
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
 - Updated dependencies [ff5b86c]
-  - @assistant-ui/react-markdown@0.2.26
-  - @assistant-ui/react@0.5.98
+  - @euraxluo/react-markdown@0.2.26
+  - @euraxluo/react@0.5.98
 
 ## 0.0.16
 
@@ -138,8 +138,8 @@
 
 - d2375cd: build: disable bundling in UI package releases
 - Updated dependencies [d2375cd]
-  - @assistant-ui/react-markdown@0.2.23
-  - @assistant-ui/react@0.5.93
+  - @euraxluo/react-markdown@0.2.23
+  - @euraxluo/react@0.5.93
 
 ## 0.0.15
 
@@ -151,8 +151,8 @@
 - Updated dependencies [2090544]
 - Updated dependencies [fb32e61]
 - Updated dependencies [fb32e61]
-  - @assistant-ui/react@0.5.90
-  - @assistant-ui/react-markdown@0.2.20
+  - @euraxluo/react@0.5.90
+  - @euraxluo/react-markdown@0.2.20
 
 ## 0.0.14
 
@@ -164,8 +164,8 @@
 - Updated dependencies [0ff22a7]
 - Updated dependencies [378ee99]
 - Updated dependencies [378ee99]
-  - @assistant-ui/react-markdown@0.2.19
-  - @assistant-ui/react@0.5.73
+  - @euraxluo/react-markdown@0.2.19
+  - @euraxluo/react@0.5.73
 
 ## 0.0.13
 
@@ -175,8 +175,8 @@
 - Updated dependencies [926dce5]
 - Updated dependencies [155d6e7]
 - Updated dependencies [f80226f]
-  - @assistant-ui/react@0.5.60
-  - @assistant-ui/react-markdown@0.2.14
+  - @euraxluo/react@0.5.60
+  - @euraxluo/react-markdown@0.2.14
 
 ## 0.0.12
 
@@ -185,8 +185,8 @@
 - c348553: chore: update dependencies
 - Updated dependencies [0f99aa6]
 - Updated dependencies [c348553]
-  - @assistant-ui/react@0.5.54
-  - @assistant-ui/react-markdown@0.2.13
+  - @euraxluo/react@0.5.54
+  - @euraxluo/react-markdown@0.2.13
 
 ## 0.0.11
 
@@ -194,8 +194,8 @@
 
 - 04f6fc8: chore: update deps
 - Updated dependencies [04f6fc8]
-  - @assistant-ui/react-markdown@0.2.12
-  - @assistant-ui/react@0.5.50
+  - @euraxluo/react-markdown@0.2.12
+  - @euraxluo/react@0.5.50
 
 ## 0.0.10
 
@@ -203,8 +203,8 @@
 
 - 554a423: chore: update deps
 - Updated dependencies [554a423]
-  - @assistant-ui/react-markdown@0.2.11
-  - @assistant-ui/react@0.5.38
+  - @euraxluo/react-markdown@0.2.11
+  - @euraxluo/react@0.5.38
 
 ## 0.0.9
 
@@ -213,8 +213,8 @@
 - 556001f: chore: update deps
 - Updated dependencies [556001f]
 - Updated dependencies [556001f]
-  - @assistant-ui/react-markdown@0.2.10
-  - @assistant-ui/react@0.5.29
+  - @euraxluo/react-markdown@0.2.10
+  - @euraxluo/react@0.5.29
 
 ## 0.0.8
 
@@ -222,18 +222,18 @@
 
 - 134d39e: fix: undo moving internal utilities to /react/internal
 - Updated dependencies [134d39e]
-  - @assistant-ui/react-markdown@0.2.7
-  - @assistant-ui/react@0.5.22
+  - @euraxluo/react-markdown@0.2.7
+  - @euraxluo/react@0.5.22
 
 ## 0.0.7
 
 ### Patch Changes
 
-- 3cc67f2: refactor: move internal utilities to @assistant-ui/react/internal
+- 3cc67f2: refactor: move internal utilities to @euraxluo/react/internal
 - Updated dependencies [de04d92]
 - Updated dependencies [3cc67f2]
-  - @assistant-ui/react-markdown@0.2.6
-  - @assistant-ui/react@0.5.20
+  - @euraxluo/react-markdown@0.2.6
+  - @euraxluo/react@0.5.20
 
 ## 0.0.6
 
@@ -241,8 +241,8 @@
 
 - a216fbf: chore: update deps
 - Updated dependencies [a216fbf]
-  - @assistant-ui/react-markdown@0.2.3
-  - @assistant-ui/react@0.5.9
+  - @euraxluo/react-markdown@0.2.3
+  - @euraxluo/react@0.5.9
 
 ## 0.0.5
 
@@ -252,8 +252,8 @@
 - Updated dependencies [ee38c0c]
 - Updated dependencies [ee38c0c]
 - Updated dependencies [2baa898]
-  - @assistant-ui/react-markdown@0.2.1
-  - @assistant-ui/react@0.5.1
+  - @euraxluo/react-markdown@0.2.1
+  - @euraxluo/react@0.5.1
 
 ## 0.0.3
 
@@ -264,13 +264,13 @@
 - Updated dependencies [e0e51cf]
 - Updated dependencies [e0e51cf]
 - Updated dependencies [679cd54]
-  - @assistant-ui/react@0.4.0
-  - @assistant-ui/react-markdown@1.0.0
+  - @euraxluo/react@0.4.0
+  - @euraxluo/react-markdown@1.0.0
 
 ## 0.0.2
 
 ### Patch Changes
 
 - Updated dependencies [ef25706]
-  - @assistant-ui/react-markdown@0.0.5
-  - @assistant-ui/react@0.3.5
+  - @euraxluo/react-markdown@0.0.5
+  - @euraxluo/react@0.3.5

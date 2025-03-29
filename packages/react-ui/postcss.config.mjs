@@ -4,7 +4,7 @@ const config = {
     tailwindcss: {},
     autoprefixer: {},
     "postcss-nested": {},
-    "@assistant-ui/tailwindcss-transformer": {},
+    "@euraxluo/tailwindcss-transformer": {},
   },
 };
 

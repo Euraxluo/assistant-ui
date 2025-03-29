@@ -1,9 +1,9 @@
 {
-  "extends": "@assistant-ui/tsconfig/base.json",
+  "extends": "@euraxluo/tsconfig/base.json",
   "compilerOptions": {
     "paths": {
       "@/*": ["./*"],
-      "@assistant-ui/*": ["../../packages/*/src"]
+      "@euraxluo/*": ["../../packages/*/src"]
     }
   },
   "include": ["**/*.ts", "**/*.tsx"],

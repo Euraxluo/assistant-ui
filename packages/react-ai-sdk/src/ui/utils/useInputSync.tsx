@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useAssistant, useChat } from "@ai-sdk/react";
-import { AssistantRuntime } from "@assistant-ui/react";
+import { AssistantRuntime } from "@euraxluo/react";
 
 type VercelHelpers =
   | ReturnType<typeof useChat>

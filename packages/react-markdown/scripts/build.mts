@@ -1,3 +1,3 @@
-import { Build } from "@assistant-ui/tsbuildutils";
+import { Build } from "@euraxluo/tsbuildutils";
 
 await Build.start().transpileTypescript();

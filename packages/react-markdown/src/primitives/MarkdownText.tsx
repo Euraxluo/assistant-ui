@@ -1,6 +1,6 @@
 "use client";
 
-import { INTERNAL, useContentPartText } from "@assistant-ui/react";
+import { INTERNAL, useContentPartText } from "@euraxluo/react";
 import {
   ComponentRef,
   ElementType,

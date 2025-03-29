@@ -1,5 +1,5 @@
 {
-  "extends": "@assistant-ui/tsconfig/base.json",
+  "extends": "@euraxluo/tsconfig/base.json",
   "compilerOptions": {
     "paths": {
       "@assistant-stream/*": ["../*/src"]

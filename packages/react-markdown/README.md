@@ -1,3 +1,3 @@
-# `@assistant-ui/react-markdown`
+# `@euraxluo/react-markdown`
 
-`react-markdown` integration for `@assistant-ui/react`.
+`react-markdown` integration for `@euraxluo/react`.

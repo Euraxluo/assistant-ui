@@ -11,7 +11,7 @@ import { CircleXIcon, FileIcon } from "lucide-react";
 import { withDefaults } from "./utils/withDefaults";
 import { useThreadConfig } from "./thread-config";
 import { TooltipIconButton } from "./base/tooltip-icon-button";
-import { AttachmentPrimitive, useAttachment } from "@assistant-ui/react";
+import { AttachmentPrimitive, useAttachment } from "@euraxluo/react";
 import {
   AvatarImage,
   AvatarRoot,

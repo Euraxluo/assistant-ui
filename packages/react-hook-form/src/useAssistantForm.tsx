@@ -5,7 +5,7 @@ import {
   type ToolCallContentPartComponent,
   useAssistantRuntime,
   useAssistantToolUI,
-} from "@assistant-ui/react";
+} from "@euraxluo/react";
 import { useEffect } from "react";
 import {
   type FieldValues,

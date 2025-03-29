@@ -5,7 +5,7 @@ import { ArchiveIcon } from "lucide-react";
 
 import { withDefaults } from "./utils/withDefaults";
 import { TooltipIconButton } from "./base/tooltip-icon-button";
-import { ThreadListItemPrimitive } from "@assistant-ui/react";
+import { ThreadListItemPrimitive } from "@euraxluo/react";
 import { useThreadConfig } from "./thread-config";
 import classNames from "classnames";
 

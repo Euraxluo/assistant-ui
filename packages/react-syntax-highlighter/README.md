@@ -1,3 +1,3 @@
-# `@assistant-ui/react-syntax-highlighter`
+# `@euraxluo/react-syntax-highlighter`
 
-`react-syntax-highlighter` integration for `@assistant-ui/react`.
+`react-syntax-highlighter` integration for `@euraxluo/react`.

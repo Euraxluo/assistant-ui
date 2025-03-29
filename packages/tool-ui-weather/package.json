@@ -36,7 +36,7 @@
     }
   },
   "devDependencies": {
-    "@assistant-ui/tsconfig": "workspace:*",
+    "@euraxluo/tsconfig": "workspace:*",
     "@types/node": "^22.13.1",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
@@ -47,12 +47,12 @@
     "access": "public",
     "provenance": true
   },
-  "homepage": "https://www.assistant-ui.com/",
+  "homepage": "https://www.euraxluo.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/assistant-ui/assistant-ui.git"
+    "url": "git+https://github.com/euraxluo/assistant-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/assistant-ui/assistant-ui/issues"
+    "url": "https://github.com/euraxluo/assistant-ui/issues"
   }
 }
