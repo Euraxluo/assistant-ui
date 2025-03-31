@@ -153,7 +153,14 @@ export function assistantDecoderStream() {
           break;
 
         // TODO
-        case AssistantStreamChunkType.ReasoningDelta:
+        case AssistantStreamChunkType.ReasoningDelta: {
+          controller.enqueue({
+            type: "reasoning",
+            textDelta: value,
+          });
+          break;
+        }
+        
         case AssistantStreamChunkType.StartStep:
           break;
 
